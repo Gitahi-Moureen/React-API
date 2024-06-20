@@ -1,0 +1,10 @@
+.users{
+    display: contents;
+    display: inline-grid;
+    gap: 5%;
+    
+}
+.users h3{
+    font-size: x-small;
+
+}
